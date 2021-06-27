@@ -1,0 +1,32 @@
+#image {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+#title {
+    text-align: center;
+  }
+
+#img-caption {
+    text-align: center;
+  } 
+.style1 {
+    text-align: center;
+  } 
+  #tribute-info {
+    margin: 33px 0;
+    background-color: lemonchiffon;
+  } 
+
+  li{
+    margin: 10px 0;
+  }
+
+  ul {
+    line-height: 45px;
+    font-size: 25px;
+  }
+#background {
+    background-color: rgb(148, 149, 156);
+  }
